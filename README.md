@@ -14,14 +14,5 @@ The RoutineRhythm is a web-based application designed to assist users in creatin
 
 4. **Saving Records**: The system includes a "Save" button, enabling users to store their routine records. The data is typically saved to a local storage mechanism, ensuring that users can access and retrieve their schedules whenever they need them.
 
-5. **JavaScript Functionality**: The project heavily relies on JavaScript to provide dynamic functionality. JavaScript handles user interactions, such as adding, editing, or deleting routine entries, and it ensures that the user interface is responsive and updates in real-time.
-
-6. **User-Friendly Interface**: The user interface is thoughtfully designed to be intuitive and easy to navigate. Users can effortlessly input their schedules, apply color preferences, and add descriptions with minimal effort.
-
-7. **Responsive Design**: The application is responsive, adapting seamlessly to various screen sizes and devices. Users can access their routines on mobile phones, tablets, and desktop computers, ensuring convenience and accessibility.
-
-8. **Error Handling**: Robust error handling and validation mechanisms are in place to ensure that users enter accurate and consistent data. Users receive clear error messages and prompts when necessary.
-
-The Routine Management System empowers users to take control of their daily schedules, promoting productivity and organization. It leverages the power of web technologies, including HTML, CSS, and JavaScript, to deliver a modern and interactive user experience. Whether it's managing classes, work commitments, or personal activities, this system offers a convenient and personalized solution for effective time management.
 
 
